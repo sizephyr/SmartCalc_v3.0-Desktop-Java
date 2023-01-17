@@ -1,0 +1,6 @@
+a.out
+.idea
+ft_ls
+*.o
+CMakeLists.txt
+cmake-build-debug
